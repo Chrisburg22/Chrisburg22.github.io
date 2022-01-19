@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636845587 source:c:\users\melisa ramos\documents\primerproyecto\palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

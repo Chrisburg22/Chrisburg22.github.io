@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637293556 source:c:\users\melisa ramos\documents\primerproyecto\bidimencional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

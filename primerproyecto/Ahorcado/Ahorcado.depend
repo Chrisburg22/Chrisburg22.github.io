@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637284468 source:c:\users\melisa ramos\documents\primerproyecto\ahorcado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+

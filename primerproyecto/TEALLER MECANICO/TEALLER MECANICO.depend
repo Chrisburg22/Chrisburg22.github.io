@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638501650 source:c:\users\melisa ramos\documents\primerproyecto\tealler mecanico\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638501676 source:c:\users\melisa ramos\onedrive\documentos\progbasica\taller mecanico.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+

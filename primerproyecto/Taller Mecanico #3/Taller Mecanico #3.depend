@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638753899 source:c:\users\melisa ramos\documents\primerproyecto\taller mecanico #3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+
